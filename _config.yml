@@ -25,8 +25,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
   - {name: '404', link: '/404'}
 
-tagline: >
-  人生，大概就是一场修道的过程！～
+tagline: 人生，大概就是一场修道的过程！～
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
